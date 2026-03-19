@@ -1,0 +1,77 @@
+/* Layout */
+.container {
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 12px;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.user {
+  font-size: 14px;
+  color: #94a3b8;
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: none;
+}
+
+/* Buttons */
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Action buttons */
+.add-btn {
+  background: #22c55e;
+  color: black;
+  width: 100%;
+}
+
+.delete-btn {
+  background: #ef4444;
+  color: white;
+  margin-left: 10px;
+}
+
+.logout-btn {
+  background: #facc15;
+  color: black;
+}
+
+/* Task Card */
+.task {
+  background: #334155;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Links */
+.link {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  color: #38bdf8;
+  cursor: pointer;
+}
