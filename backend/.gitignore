@@ -1,17 +1,13 @@
-# Node modules
+# Backend specific
+
 node_modules/
 
-# Env files
 .env
 .env.*
+!.env.example
 
-# Logs
 logs
 *.log
 
-# OS files
-.DS_Store
-
-# Build
 dist/
 build/
