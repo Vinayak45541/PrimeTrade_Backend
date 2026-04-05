@@ -75,7 +75,7 @@ The system is designed with clean architecture, security best practices, and mod
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Vinayak45541/PrimeTrade_Backend.git
 cd primetrade-assignment
 ```
 
